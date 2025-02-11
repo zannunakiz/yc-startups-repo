@@ -23,7 +23,6 @@ const nextConfig: NextConfig = {
     buildActivityPosition: "bottom-right",
   },
   experimental: {
-    after: true,
   },
 };
 
